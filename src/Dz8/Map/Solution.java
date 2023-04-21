@@ -1,4 +1,4 @@
-package Dz8;
+package Dz8.Map;
 
 import java.util.*;
 import java.io.*;
